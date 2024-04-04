@@ -1,16 +1,33 @@
-### Hi there 👋
+Hi there 👋 I am Satyam Raikwar
+🚀 Java Full Stack Developer
 
-<!--
-**Satyam0199/satyam0199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about building scalable and robust software solutions using Java for the backend, React for the frontend, and React Native for cross-platform mobile development.
 
-Here are some ideas to get you started:
+🛠️ Technologies & Tools
+Backend:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java
+Spring Boot
+Hibernate
+MySQL, PostgreSQL
+Frontend:
+
+React
+HTML5, CSS3, JavaScript
+Redux
+Responsive Design
+Mobile:
+
+Tools:
+
+Git
+IntelliJ IDEA
+Eclipse
+NetBeans
+Visual Studio Code
+🌱 Current Learning Focus
+I am currently diving deeper into:
+
+Microservices architecture
+Spring Boot Developement
+Continuous Integration/Continuous Deployment (CI/CD)
