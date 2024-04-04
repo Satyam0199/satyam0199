@@ -1,33 +1,36 @@
-Hi there 👋 I am Satyam Raikwar
-🚀 Java Full Stack Developer
+# Hello, I'm Satyam Raikwar! 👋
 
-Welcome to my GitHub profile! I'm passionate about building scalable and robust software solutions using Java for the backend, React for the frontend, and React Native for cross-platform mobile development.
+Welcome to my GitHub profile! I'm a passionate Java Fullstack Developer with experience in building robust and scalable applications. Below is an overview of my skills and technologies:
 
-🛠️ Technologies & Tools
-Backend:
+## Programming Languages:
+- Java
+- C++
 
-Java
-Spring Boot
-Hibernate
-MySQL, PostgreSQL
-Frontend:
+## Backend Technologies:
+- Java Spring Boot
+- Hibernate
+- MySQL
+- PostgreSQL
 
-React
-HTML5, CSS3, JavaScript
-Redux
-Responsive Design
-Mobile:
+## Frontend Technologies:
+- React
+- HTML5, CSS3, JavaScript
+- Redux
+- Responsive Design
 
-Tools:
+## Mobile Development:
+- React Native
+- Expo
+- Redux for State Management
 
-Git
-IntelliJ IDEA
-Eclipse
-NetBeans
-Visual Studio Code
-🌱 Current Learning Focus
-I am currently diving deeper into:
+## Tools & IDEs:
+- Git
+- IntelliJ IDEA
+- Eclipse
+- NetBeans
+- Visual Studio Code
 
-Microservices architecture
-Spring Boot Developement
-Continuous Integration/Continuous Deployment (CI/CD)
+I'm always eager to collaborate on exciting projects and learn new technologies. Feel free to explore my repositories and reach out to me for any inquiries or collaborations.
+
+Let's connect and build something awesome together!
+
